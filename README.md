@@ -7,7 +7,7 @@
 
 ## About me
 <br>
-Senior Full Stack Developer with 7+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.</br>
+Senior Full Stack Developer with 8+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.</br>
 ✨Bachelor’s Degree in Computer Science✨</br>
 ✨California Institute of Technology, Los Angeles, CA✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
