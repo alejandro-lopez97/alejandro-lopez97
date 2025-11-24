@@ -178,7 +178,7 @@ Senior Full Stack Developer with 8+ years of experience of designing, developing
 🥉<b>Databases</b>: MySQL, PostgreSQL, MongoDB, and Oracle</br>
 🏆<b>Cloud and DevOps</b>: AWS, Azure, Docker, Kubernetes, CI/CD pipelines</br>
 💰<b>Blockchain</b>: Solidity, Go, Rust, Python, Java, Web3</br>
-<img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=240/><br/>
+<p align = "center"><img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=240/></p><br/>
 <br>
 
 <p align = "center">
