@@ -178,6 +178,7 @@ Senior Full Stack Developer with 8+ years of experience of designing, developing
 🥉<b>Databases</b>: MySQL, PostgreSQL, MongoDB, and Oracle</br>
 🏆<b>Cloud and DevOps</b>: AWS, Azure, Docker, Kubernetes, CI/CD pipelines</br>
 💰<b>Blockchain</b>: Solidity, Go, Rust, Python, Java, Web3
+![](https://github-readme-stats.vercel.app/api?username=mirkashi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=240/><br/>
 <br>
 
 <p align = "center">
