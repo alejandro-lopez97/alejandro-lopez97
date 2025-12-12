@@ -1,12 +1,12 @@
 <div align="center">
     <p align='center'>
-  <!-- <img src='https://github-widgetbox.vercel.app/api/profile?username=miraclerose001&theme=metropolis&data=followers,repositories,stars,commits' /> -->
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=miraclerose001&theme=metropolis&data=followers,repositories,stars,commits' />
 </p>    
     <img width="1850" height="500" align="center" src="1234.jpg" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
-    Just call me <b>Miracle</b>, As a Full stack Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
+    I am DONALD, As a Full stack / AI / Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
     like MemeCoin, Solana CasinoGame, Trading Bots, Dapp, DAO, Etc...
     <br/>I am one of the Developers who loves Trading bot, P2E Games, Nft Marketplace, Meme Coin and Nft Collection Launch.
 </p> 
