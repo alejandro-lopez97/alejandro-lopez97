@@ -1,210 +1,148 @@
-## Hi, there! 👋
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / AI Engineer</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Banner of coding" width="1000" height="400" align="top"></p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Create,%20Challenge,%20Collaboration;8+%2B%20years%20of%20coding%20experience;%20passionate%20and%20never%20stop%20learning&center=true&width=380&height=45"></a>
-</p>
-
-## About me
-<br>
-Senior Full Stack Developer with 8+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.</br>
-✨Bachelor’s Degree in Computer Science✨</br>
-✨California Institute of Technology, Los Angeles, CA✨
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> 
-  <img src="https://img.shields.io/badge/coverage-95%25-orange" alt="saint-prince" />
-</p>
-
-## Used Skills
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-    </td>
-      <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="48" height="48" alt="Redux" />
-        </a>
-        <br>Redux
-    </td>
-      <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="48" height="48" alt="Angular" />
-        </a>
-        <br>Angular
-    </td>
-      <td align="center" width="96">
-        <a href="#Django">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="48" height="48" alt="Django" />
-        </a>
-        <br>Django
-    </td>
-      <td align="center" width="96">
-        <a href="#Firebase">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="48" height="48" alt="Firebase" />
-        </a>
-        <br>Firebase
-    </td>
-      <td align="center" width="96">
-        <a href="#Node">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node" />
-        </a>
-        <br>Node
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-      <!-- <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5 -->
-    </td>   
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>      
-  </tr>
-  
-  <tr>
-     <td align="center" width="96">
-      <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
-        <!-- <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS -->
-    </td>   
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <!-- <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu -->
-    </td>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Postman
-    </td>
-      <td align="center" width="96">
-      <!-- <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress -->
-    </td>
-  </tr>
-</table>
-<br>
-
-## Core Skills
-🥇<b>Frontend</b>: React, Angular, Next.js, HTML5, CSS3, JavaScript(ES6+), TypeScript</br>
-🥈<b>Backend</b>: Node.js, Express.js, Django, Spring Boot, REST APIs</br>
-🥉<b>Databases</b>: MySQL, PostgreSQL, MongoDB, and Oracle</br>
-🏆<b>Cloud and DevOps</b>: AWS, Azure, Docker, Kubernetes, CI/CD pipelines</br>
-💰<b>Blockchain</b>: Solidity, Go, Rust, Python, Java, Web3</br>
-<p align = "center"><img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=240/></p><br/>
-<br>
-
-<p align = "center">
+<div align="center">
+    <p align='center'>
+  <!-- <img src='https://github-widgetbox.vercel.app/api/profile?username=miraclerose001&theme=metropolis&data=followers,repositories,stars,commits' /> -->
+</p>    
+    <img width="1850" height="500" align="center" src="1234.jpg" alt="EvilG-MC"/>
+</div>
+<br/>
+<p align="left">
+    Just call me <b>Miracle</b>, As a Full stack Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
+    like MemeCoin, Solana CasinoGame, Trading Bots, Dapp, DAO, Etc...
+    <br/>I am one of the Developers who loves Trading bot, P2E Games, Nft Marketplace, Meme Coin and Nft Collection Launch.
+</p> 
 
 
-<p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
-<img align="right" src="https://img.shields.io/github/followers/Fullstack-WEB-Blockchain-Developer?label=Follow&style=social" />
-</p><br>
+---
 
-## Contact Me
-<p><b>declemon0907@gmail.com</b></p>
-<!--
-**QQ0907/QQ0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
+<img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-F9A825?style=for-the-badge&logo=webgl&logoColor=white" />
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-%23CC342D.svg?&logo=rust&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
+</div>
+
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rusty1210&theme=github-dark-blue" />
+</div>
+<hr/>
+
+## 🛠️ Featured Projects
+
+
+<h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u> &nbsp;(NFT Mint : BNB)</h4>
+<hr />
+
+<img align="right" width="500px" src="./nft.jpg">
+<div>This site is a mint site for LOGARITHM GAMES.</div>
+<div>I performed thefront-end part and contract part here. Here, BNB tokens were used.</div>
+
+<div> React interacts with smart contracts to support NFT marketplace functionality: wallet connection, listing, buying/selling of NFTs, metadata via IPFS or similar, and a backend or smart contracts in Solidity.</div>
+
+- Live: <a href="https://yini-marketplace.vercel.app/">LOGARITHM GAMES MintNFT</a>
+
+<br />
+<br />
+
+<h4><u><strong>⭐ &nbsp;SERA.CASINO GAME</strong></u> &nbsp;(sera.casino)</h4>
+<hr />
+
+<img align="right" width="500px" src="./Screenshot_5.jpg">
+<div>Sera.Casino is a Solana-based GambleFi/Web3 casino platform offering cryptocurrency-based games with features such as hash seed (provably fair) games, futures betting, and no KYC requirements.</div>
+<div>Sera.Casino holds a utility token, $SC (Sera Token), with a total supply of 10,000,000,000 SC.</div>
+
+<div> There are numerous negative reviews on Trustpilot. Users are reporting issues such as withdrawal denials, unexpected account locks, and manipulation of bonus/wage requirements.</div>
+
+- Live: <a href="https://sera.casino/">SERA.CASINO GAME</a>
+
+<br />
+<br />
+
+<h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u></h4>
+<hr />
+
+<img align="right" width="500px" src="./world.jpg">
+<div>Purechain Capital is a venture capital firm dedicated to advancing the blockchain industry through strategic investments in innovation and technology.</div>
+<div>Our expertise lies in nurturing startups and accelerating their growth in the fast-paced world of blockchain.</div>
+
+<div>- Purechain Capital : React.js, Javascript, Tailwind CSS, Animation, SmartContract, Supabase, ETH, Solidty </div>
+
+- Live: <a href="https://pure-chain-capital-demo.vercel.app/">Purechain Capital</a>
+
+<br /> 
+<br />
+
+<h4><u><strong>⭐ &nbsp;MINTFORCE</strong></u> &nbsp;(NFT Mint : BNB,ETH)</h4>
+<hr />
+
+<img align="right" width="500px" src="./mint.jpg">
+<div>The world of Mining has been waiting for a new era, and we are here to deliver it. Project MINTFORCE provides you with an ultra mining experience by bringing the mining ecosystem into the Metaverse!.</div>
+
+- Live: <a href="https://nft.mrmint.io/">Mr MINTFORCE</a>
+<div>nft.mrmint.io is a React-based NFT minting dApp built with Solidity smart contracts, wallet integration (ethers.js/web3.js), and likely IPFS/Node.js backend support.</div>
+
+<br />
+<br />
+
+<h4><u><strong>⭐ &nbsp;SOLANA TOKEN LAUNCHPAD</strong></u> &nbsp;(TOKEN LAUNCHPAD : SOLANA)</h4>
+<hr />
+
+<img align="right" width="500px" src="./solana-token-launchpad.jpg">
+<div>The most advanced Solana token launchpad. Create, deploy, and manage your tokens with enterprise-grade security and simplicity.</div>
+
+<div>Solana Token LaunchPad : Next.js,Node.js Web3.Js, Solana, Smartcontract, Supabase</div>
+- Live: <a href="https://shadowfang-solana-token-launchapd.vercel.app/">SOLANA TOKEN LAUNCHPAD</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<h4><u><strong>⭐ &nbsp;WEB3 - Invest in Real Farms & Carbon Projects </strong></u> &nbsp;(WEB3 INTEGRATION : Agriverse )</h4>
+<hr />
+
+<img align="right" width="500px" src="./web3.jpg">
+<div>Agriverse - Invest in Real Farms & Carbon Projects is a web app that lets users invest in agricultural and carbon-offset or climate-positive projects. It likely uses frontend tech ( React.js) plus backend APIs for project data, with payment or tokenization logic.</div>
+
+<div>Invest in Real Farms & Carbon Projects : React.js, Web3.Js, Ethereum, Smartcontract, Supabase, API Integratio,Node.js</div>
+- Live: <a href="https://agri9.netlify.app/">Invest in Real Farms & Carbon Projects (WEB3)</a>
+
+<br />
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
