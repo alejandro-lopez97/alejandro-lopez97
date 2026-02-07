@@ -9,10 +9,6 @@
 
 Experienced Backend Engineer with a strong track record of designing, building, and maintaining scalable, secure, and high-performance systems. Expert in clean architecture and API-first development, with deep knowledge of microservices, databases, and distributed systems.
 
-- 🔭 Currently working on: [Current project or focus area]
-- 🌱 Learning: [Technologies you're currently exploring]
-- 💬 Ask me about: System design, microservices, database optimization
-- ⚡ Fun fact: [Something interesting about you]
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +40,7 @@ Experienced Backend Engineer with a strong track record of designing, building, 
 
 ## 🎯 What I'm Working On
 
-- 🏗️ **Web Architecture**: Designing scalable microservices and distributed systems
+- 🏗️ **Web Architecture Design & Development**: Designing scalable microservices and distributed systems
 - 🎨 **API Design**: Building RESTful, GraphQL, and gRPC APIs with optimal performance
 - 🗄️ **Database Design**: Optimizing data models and query performance across SQL/NoSQL
 - 🤖 **AI Integration & Automation**: Implementing ML pipelines and intelligent automation
