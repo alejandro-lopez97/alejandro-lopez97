@@ -67,7 +67,6 @@ I'm always interested in discussing backend engineering, system design, and new 
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 💬 [Email](mailto:flowsgzx@gmail.com)
-- 🌐 [WhatsApp](+34 613169898)
 ---
 
 ⭐️ From [Alex](https://github.com/fortuneguy97)
