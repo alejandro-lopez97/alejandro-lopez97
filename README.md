@@ -61,8 +61,8 @@ Experienced Backend Engineer with a strong track record of designing, building, 
 
 I'm always interested in discussing backend engineering, system design, and new technologies. Feel free to reach out!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💬 [Email](mailto:flowsgzx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=flowsgzx@gmail.com)
 ---
 
 ⭐️ From [Alex](https://github.com/fortuneguy97)
