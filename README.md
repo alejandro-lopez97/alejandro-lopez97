@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Experienced Backend Engineer with a strong track record of designing, building, and maintaining scalable, secure, and high-performance systems. Expert in clean architecture and API-first development, with deep knowledge of microservices, databases, and distributed systems.
+Experienced Backend/ML Engineer with a strong track record of designing, building, and maintaining scalable, secure, and high-performance systems. Expert in clean architecture and API-first development, with deep knowledge of microservices, databases, and distributed systems.
 
 
 ## 🛠️ Tech Stack
