@@ -65,4 +65,4 @@ I'm always interested in discussing backend engineering, system design, and new 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=flowsgzx@gmail.com)
 ---
 
-⭐️ From [Alex](https://github.com/fortuneguy97)
+⭐️ From [Alex](https://github.com/alejandro-lopez97)
