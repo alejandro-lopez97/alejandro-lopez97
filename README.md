@@ -7,7 +7,11 @@
 
 ## 🚀 About Me
 
-Experienced Backend/ML Engineer with a strong track record of designing, building, and maintaining scalable, secure, and high-performance systems. Expert in clean architecture and API-first development, with deep knowledge of microservices, databases, and distributed systems.
+Web Engineer with 8+ years of experience designing and delivering scalable, secure, and production-grade systems, with a strong backend focus and deep full-stack expertise. I specialize in backend architecture, API design, distributed systems, and data modeling, building systems that are resilient, observable, and built for long-term evolution.
+
+My core stack includes Node.js and Python for backend services, React for frontend applications, and PostgreSQL and distributed data stores for complex data workflows. I design RESTful and event-driven architectures, implement authentication and authorization flows (OAuth, JWT), and optimize systems for performance, concurrency, and reliability under real-world load.
+
+I have hands-on experience integrating AI capabilities into production systems, including LLM-powered features, intelligent workflows, and data-driven automation. I focus on building AI-enabled products that are not just technically sound, but practical, maintainable, and aligned with business objectives.
 
 
 ## 🛠️ Tech Stack
